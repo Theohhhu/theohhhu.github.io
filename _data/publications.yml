@@ -1,22 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "MARLlib: A Scalable and Efficient Multi-agent Reinforcement Learning Library"
+    authors: <strong>Siyi Hu</strong>, Yifan Zhong, Minquan Gao, Weixun Wang, Hao Dong, Xiaodan Liang, Zhihui Li, Xiaojun Chang, Yaodong Yang* (*Corresponding authors)
+    conference_short: JMLR
+    conference: Journal of Machine Learning Research 24, 1-23
+    pdf: https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf
+    code: https://github.com/Replicable-MARL/MARLlib
+    bibtex: https://www.jmlr.org/papers/v24/23-0378.bib
+    image: https://github.com/Replicable-MARL/MARLlib/blob/master/docs/source/images/overview.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "ProAgent: Building Proactive Cooperative AI with Large Language Models"
+    authors: Ceyao Zhang^, Kaijie Yang^, <strong>Siyi Hu</strong>^, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang* (^Equal contribution *Corresponding authors)
+    conference_short: arxiv
+    conference: arXiv preprint arXiv:2308.11339
+    pdf: https://arxiv.org/pdf/2308.11339
+    code: https://github.com/PKU-Alignment/ProAgent
+    page: https://pku-proagent.github.io/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3J1O4UzLuqYJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfXSMn0:AFWwaeYAAAAAZV3UKn2myk_RYEQPWXMIBfB5fNk&scisig=AFWwaeYAAAAAZV3UKjoUw9qGZ1lg2ft3VpINdQU&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Under Review
+    image: https://pku-proagent.github.io/static/images/overview_revise_page-0001.jpg
