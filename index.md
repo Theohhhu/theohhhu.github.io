@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Technology Sydney (UTS)
+I am currently pursuing a Ph.D. in Artificial Intelligence at the University of Technology Sydney (UTS), 
+under the guidance of Prof. Xiaojun Chang.
 
 ## Research Interests
 
