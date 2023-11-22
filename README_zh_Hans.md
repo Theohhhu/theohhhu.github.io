@@ -64,7 +64,7 @@ Minimal Light 主题有以下的变量, 你可以在`_config.yml`文件中修改
 title: 你的名字
 position: Ph.D. Student
 affiliation: 你的单位
-email: yourname (at) example.edu
+email: theohsy (at) gmail.com
 
 # 搜索引擎优化 (SEO)
 keywords: minimal light

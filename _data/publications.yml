@@ -7,7 +7,7 @@ main:
     pdf: https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf
     code: https://github.com/Replicable-MARL/MARLlib
     bibtex: https://www.jmlr.org/papers/v24/23-0378.bib
-    image: https://github.com/Replicable-MARL/MARLlib/blob/master/docs/source/images/overview.png
+    image: ./assets/img/marllib.jpg
 
   - title: "ProAgent: Building Proactive Cooperative AI with Large Language Models"
     authors: Ceyao Zhang^, Kaijie Yang^, <strong>Siyi Hu</strong>^, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang* (^Equal contribution *Corresponding authors)

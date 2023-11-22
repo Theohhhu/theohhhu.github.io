@@ -112,8 +112,8 @@ The Minimal Light theme will respect the following variables, if set in your sit
 # Basic Information 
 title: Your Name
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: University of Technology Sydney
+email: theohsy (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
