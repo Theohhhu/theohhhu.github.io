@@ -38,6 +38,7 @@ main:
     code: https://github.com/PKU-MARL/HARL
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pGBbTCqL_xIJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfaIU30:AFWwaeYAAAAAZV6OS32cAySOb5GEjC_XfwCuGS8&scisig=AFWwaeYAAAAAZV6OS_77MmRwy0Rq_sYeXWWzSXQ&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/harl.jpg
+    notes: Under Review
 
   - title: "Policy Diagnosis via Measuring Role Diversity in Cooperative Multi-agent RL"
     authors: <strong>Siyi Hu</strong>, Chuanlong Xie, Xiaodan Liang, Xiaojun Chang* (*Corresponding authors)
