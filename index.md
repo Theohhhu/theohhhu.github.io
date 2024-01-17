@@ -13,7 +13,10 @@ My research focuses on advancing the field of Multi-agent Reinforcement Learning
 
 ## News
 
-- **[Aug. 2023]** One paper is accepted to JMLR!
+- **[Jan. 2024]** One paper is accepted to ICLR 2024 as Spotlight!
+- **[Dec. 2023]** One paper is accepted to AAAI as Oral!
+- **[Nov. 2023]** One paper is accepted to JMLR.
+- **[Aug. 2023]** One paper is accepted to JMLR MLOSS track.
 - **[Jun. 2022]** One paper is accepted to ICML 2022.
 - **[Mar. 2021]** One paper is accepted to ICLR 2021 as Spotlight!
 
