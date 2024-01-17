@@ -2,8 +2,8 @@ main:
 
   - title: "ProAgent: Building Proactive Cooperative AI with Large Language Models"
     authors: Ceyao Zhang^, Kaijie Yang^, <strong>Siyi Hu</strong>^, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang* (^Equal contribution *Corresponding authors)
-    conference_short: arxiv
-    conference: preprint
+    conference_short: AAAI 2024
+    conference: The 38th Annual AAAI Conference on Artificial Intelligence
     pdf: https://arxiv.org/pdf/2308.11339
     code: https://github.com/PKU-Alignment/ProAgent
     page: https://pku-proagent.github.io/
@@ -22,23 +22,21 @@ main:
 
   - title: "Maximum Entropy Heterogeneous-Agent Mirror Learning"
     authors: Jiarong Liu, Yifan Zhong, <strong>Siyi Hu</strong>, Haobo Fu, Qiang Fu, Xiaojun Chang, Yaodong Yang* (*Corresponding authors)
-    conference_short: arxiv
-    conference: preprint
+    conference_short: ICLR 2024
+    conference: The Twelfth International Conference on Learning Representations
     pdf: https://openreview.net/pdf?id=tmqOhBC4a5
     code: https://github.com/PKU-MARL/HARL
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:X-B0DrSJlXEJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfaIEpw:AFWwaeYAAAAAZV6OCpxPcMGi0GS_E94m0RpvHWA&scisig=AFWwaeYAAAAAZV6OCgo--dPMKzOFTYM5hbZtn_w&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/hasac.jpg
-    notes: Under Review
 
   - title: "Heterogeneous-Agent Reinforcement Learning"
     authors:  Yifan Zhong, Jakub Grudzien Kuba, <strong>Siyi Hu</strong>, Jiaming Ji, Yaodong Yang* (*Corresponding authors)
-    conference_short: arxiv
-    conference: preprint
+    conference_short: JMLR
+    conference: Journal of Machine Learning Research
     pdf: https://arxiv.org/pdf/2304.09870
     code: https://github.com/PKU-MARL/HARL
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pGBbTCqL_xIJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfaIU30:AFWwaeYAAAAAZV6OS32cAySOb5GEjC_XfwCuGS8&scisig=AFWwaeYAAAAAZV6OS_77MmRwy0Rq_sYeXWWzSXQ&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/harl.jpg
-    notes: Under Review
 
   - title: "Policy Diagnosis via Measuring Role Diversity in Cooperative Multi-agent RL"
     authors: <strong>Siyi Hu</strong>, Chuanlong Xie, Xiaodan Liang, Xiaojun Chang* (*Corresponding authors)
