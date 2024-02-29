@@ -8,7 +8,7 @@ main:
     code: https://github.com/PKU-Alignment/ProAgent
     page: https://pku-proagent.github.io/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3J1O4UzLuqYJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfXSMn0:AFWwaeYAAAAAZV3UKn2myk_RYEQPWXMIBfB5fNk&scisig=AFWwaeYAAAAAZV3UKjoUw9qGZ1lg2ft3VpINdQU&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://pku-proagent.github.io/static/images/overview_revise_page-0001.jpg
+    image: https://pku-proagent.github.io/static/images/overview.png
 
   - title: "MARLlib: A Scalable and Efficient Multi-agent Reinforcement Learning Library"
     authors: <strong>Siyi Hu</strong>, Yifan Zhong, Minquan Gao, Weixun Wang, Hao Dong, Xiaodan Liang, Zhihui Li, Xiaojun Chang*, Yaodong Yang* (*Corresponding authors)
