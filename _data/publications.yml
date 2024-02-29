@@ -2,7 +2,7 @@ main:
 
   - title: "ProAgent: Building Proactive Cooperative AI with Large Language Models"
     authors: Ceyao Zhang^, Kaijie Yang^, <strong>Siyi Hu</strong>^, Zihao Wang, Guanghe Li, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang* (^Equal contribution *Corresponding authors)
-    conference_short: AAAI 2024
+    conference_short: AAAI 2024 (oral)
     conference: The 38th Annual AAAI Conference on Artificial Intelligence
     pdf: https://arxiv.org/pdf/2308.11339
     code: https://github.com/PKU-Alignment/ProAgent
@@ -12,7 +12,7 @@ main:
 
   - title: "MARLlib: A Scalable and Efficient Multi-agent Reinforcement Learning Library"
     authors: <strong>Siyi Hu</strong>, Yifan Zhong, Minquan Gao, Weixun Wang, Hao Dong, Xiaodan Liang, Zhihui Li, Xiaojun Chang*, Yaodong Yang* (*Corresponding authors)
-    conference_short: JMLR
+    conference_short: JMLR 2024
     conference: Journal of Machine Learning Research 24, 1-23
     pdf: https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf
     code: https://github.com/Replicable-MARL/MARLlib
@@ -21,7 +21,7 @@ main:
 
   - title: "Maximum Entropy Heterogeneous-Agent Mirror Learning"
     authors: Jiarong Liu, Yifan Zhong, <strong>Siyi Hu</strong>, Haobo Fu, Qiang Fu, Xiaojun Chang, Yaodong Yang* (*Corresponding authors)
-    conference_short: ICLR 2024
+    conference_short: ICLR 2024 (spotlight)
     conference: The Twelfth International Conference on Learning Representations
     pdf: https://openreview.net/pdf?id=tmqOhBC4a5
     code: https://github.com/PKU-MARL/HARL
@@ -30,7 +30,7 @@ main:
 
   - title: "Heterogeneous-Agent Reinforcement Learning"
     authors:  Yifan Zhong, Jakub Grudzien Kuba, <strong>Siyi Hu</strong>, Jiaming Ji, Yaodong Yang* (*Corresponding authors)
-    conference_short: JMLR
+    conference_short: JMLR 2023
     conference: Journal of Machine Learning Research
     pdf: https://arxiv.org/pdf/2304.09870
     code: https://github.com/PKU-MARL/HARL
@@ -39,7 +39,7 @@ main:
 
   - title: "Policy Diagnosis via Measuring Role Diversity in Cooperative Multi-agent RL"
     authors: <strong>Siyi Hu</strong>, Chuanlong Xie, Xiaodan Liang, Xiaojun Chang* (*Corresponding authors)
-    conference_short: ICML
+    conference_short: ICML 2022
     conference: International Conference on Machine Learning, 2022
     pdf: https://proceedings.mlr.press/v162/hu22c/hu22c.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xJHQx1zSG7YJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfaJSdc:AFWwaeYAAAAAZV6PUdfvht3_OQbAL3iN7UiNs6g&scisig=AFWwaeYAAAAAZV6PUaVRK9ydUvpE-Ds_-dMV7sk&scisf=4&ct=citation&cd=-1&hl=en
@@ -47,7 +47,7 @@ main:
 
   - title: "UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers"
     authors: <strong>Siyi Hu</strong>, Fengda Zhu, Xiaojun Chang*, Xiaodan Liang (*Corresponding authors)
-    conference_short: ICLR
+    conference_short: ICLR 2021 (spotlight)
     conference: International Conference on Learning Representations, 2021
     pdf: https://openreview.net/pdf?id=v9c7hr9ADKx
     code: https://github.com/Theohhhu/UPDeT
