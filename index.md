@@ -9,7 +9,10 @@ under the guidance of Prof. Xiaojun Chang.
 
 ## Research Interests
 
-I am deeply engaged in the realm of Multi-agent Systems, where my research is dedicated to enhancing scalability, efficiency, and cooperative AI through groundbreaking algorithms and libraries. I led the development of "MARLlib," a comprehensive library essential for multi-agent systems research, which is open-sourced and has gained significant popularity within the community. My research has significantly advanced the domain of Multi-agent Systems, with a focused effort on enhancing scalability, efficiency, and the implementation of cooperative artificial intelligence solutions.
+I am deeply engaged in the realm of Multi-agent Systems, where my research is dedicated to enhancing scalability, 
+efficiency, and cooperative AI through groundbreaking algorithms and libraries. 
+I led the development of "MARLlib," a comprehensive library essential for multi-agent systems research, 
+which is open-sourced and has gained significant popularity within the community. 
 
 ## News
 
