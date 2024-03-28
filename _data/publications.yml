@@ -12,7 +12,7 @@ main:
 
   - title: "MARLlib: A Scalable and Efficient Multi-agent Reinforcement Learning Library"
     authors: <strong>Siyi Hu</strong>, Yifan Zhong, Minquan Gao, Weixun Wang, Hao Dong, Xiaodan Liang, Zhihui Li, Xiaojun Chang*, Yaodong Yang* (*Corresponding authors)
-    conference_short: JMLR 2024
+    conference_short: JMLR 2023
     conference: Journal of Machine Learning Research 24, 1-23
     pdf: https://www.jmlr.org/papers/volume24/23-0378/23-0378.pdf
     code: https://github.com/Replicable-MARL/MARLlib
@@ -32,7 +32,7 @@ main:
     authors:  Yifan Zhong, Jakub Grudzien Kuba, <strong>Siyi Hu</strong>, Jiaming Ji, Yaodong Yang* (*Corresponding authors)
     conference_short: JMLR 2023
     conference: Journal of Machine Learning Research
-    pdf: https://arxiv.org/pdf/2304.09870
+    pdf: https://www.jmlr.org/papers/volume25/23-0488/23-0488.pdf
     code: https://github.com/PKU-MARL/HARL
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pGBbTCqL_xIJ:scholar.google.com/&output=citation&scisdr=ClF6bhLDEMOWlfaIU30:AFWwaeYAAAAAZV6OS32cAySOb5GEjC_XfwCuGS8&scisig=AFWwaeYAAAAAZV6OS_77MmRwy0Rq_sYeXWWzSXQ&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/harl.jpg
