@@ -4,15 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing a Ph.D. in Artificial Intelligence at the University of Technology Sydney (UTS), 
-under the guidance of Prof. Xiaojun Chang.
+I'm currently working towards my Ph.D. in at the University of Technology Sydney (UTS), guided by Prof. Xiaojun Chang.
+
 
 ## Research Interests
 
-I am deeply engaged in the realm of Multi-agent Systems, where my research is dedicated to enhancing scalability, 
-efficiency, and cooperative AI through groundbreaking algorithms and libraries. 
-I led the development of "MARLlib," a comprehensive library essential for multi-agent systems research, 
-which is open-sourced and has gained significant popularity within the community. 
+My main focus is on making groups of AI systems, or Multi-agent Systems, work more efficiently and effectively. I've put a lot of work into creating "MARLlib," a toolkit that helps researchers like me find new ways for these systems to cooperate. It's free for anyone to use and has become quite popular among people working in my field. My goal is to make AI research easier for everyone and to push the boundaries of what our technology can do.
 
 ## News
 
