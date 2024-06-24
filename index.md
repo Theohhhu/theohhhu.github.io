@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently working towards my Ph.D. in at the University of Technology Sydney (UTS), guided by Prof. Xiaojun Chang.
-
+I am currently a Research Fellow at STEM, University of South Australia. Prior to this, I was a PhD student under the guidance of Prof. Xiaojun Chang at the University of Technology Sydney.
 
 ## Research Interests
 
