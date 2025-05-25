@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Fellow at STEM, University of South Australia. Prior to this, I was a PhD student under the guidance of Prof. Xiaojun Chang at the University of Technology Sydney.
+I am currently a Research Fellow at Adelaide Univeristy. Prior to this, I was a PhD student under the guidance of Prof. Xiaojun Chang at the University of Technology Sydney.
 
 ## Research Interests
 
-My main focus is on making groups of AI systems, or Multi-agent Systems, work more efficiently and effectively. I've put a lot of work into creating "MARLlib," a toolkit that helps researchers like me find new ways for these systems to cooperate. It's free for anyone to use and has become quite popular among people working in my field. My goal is to make AI research easier for everyone and to push the boundaries of what our technology can do.
+My research sits at the intersection of artificial intelligence, cooperative decision-making, and large language models (LLMs). I focus on building intelligent systems that can work together in dynamic, real-world settings—from satellite clusters to human-AI teams. I led the development of **MARLlib**, a widely adopted open-source library that helps researchers prototype and benchmark multi-agent reinforcement learning (MARL) algorithms. More recently, I’ve extended my work to GenAI, creating **ProAgent**, a framework that uses LLMs to enable proactive and interpretable cooperation between agents and humans. Whether through scalable algorithms or applied systems, my goal is to make AI more adaptable, accessible, and aligned with real-world needs.
+
 
 ## News
 
