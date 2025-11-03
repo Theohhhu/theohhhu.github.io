@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Fellow at Adelaide Univeristy. Prior to this, I was a PhD student under the guidance of Prof. Xiaojun Chang at the University of Technology Sydney.
+I am currently a Lecturer (Assistant Professor) at Curtin University in Perth, Western Australia. Prior to this, I was a Research Fellow at the Adelaide University and, before that, a PhD student under the supervision of Professor Xiaojun Chang at the University of Technology Sydney.
 
 ## Research Interests
 
